@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 3956060d4042a2544aa975da59bd14e8
+  - enabled: 1
+    path: Assets/Scenes/Game Over.unity
+    guid: 8511b7683944ab54f8cb0a60d5c84c3f
+  - enabled: 1
+    path: Assets/Scenes/Home Level.unity
+    guid: 1d3197d37f09d8b48a07bdb0ff8d49ad
+  - enabled: 1
+    path: Assets/Scenes/Level 1-1.unity
+    guid: 498366d96566468468dea549ac80fd2a
+  - enabled: 1
+    path: Assets/Scenes/Level 1-2.unity
+    guid: d85e167bed24ade4dbee6cee5d5ae33a
+  - enabled: 1
+    path: Assets/Scenes/Level 1-3.unity
+    guid: dae8c50f64329f4459b6fad3a8803c4f
+  - enabled: 1
+    path: Assets/Scenes/Level 1-Boss.unity
+    guid: 389447ef7f497c844954670a781c5086
+  - enabled: 1
+    path: Assets/Scenes/Level 2-1.unity
+    guid: 8bfe61aaf4e591b46be86c427f40e7af
+  - enabled: 1
+    path: Assets/Scenes/Level 2-2.unity
+    guid: 0751971d4cd47a24dbc284f36e812994
+  - enabled: 1
+    path: Assets/Scenes/Level 2-3.unity
+    guid: 74c0dbdf9975eaf4898b152fb2c549ef
+  - enabled: 1
+    path: Assets/Scenes/Level 2-Boss.unity
+    guid: 20a236155eba8444aa5792aa177b54fa
+  - enabled: 1
+    path: Assets/Scenes/Level 3-1.unity
+    guid: 75cce7e5473f9d24792cbe7018ec411e
+  - enabled: 1
+    path: Assets/Scenes/Level 3-2.unity
+    guid: 5883542a8c07fe84ba9c9460ca56e8b3
+  - enabled: 1
+    path: Assets/Scenes/Level 3-3.unity
+    guid: 219070a4f820589468ef097e9bf2f396
+  - enabled: 1
+    path: Assets/Scenes/Level 3-Boss.unity
+    guid: a00f660fb32415248aa5796e8e226600
+  - enabled: 1
+    path: Assets/Scenes/Level 4-1.unity
+    guid: e7541397530f8a04a9cdd5636ef3cd07
+  - enabled: 1
+    path: Assets/Scenes/Level 4-2.unity
+    guid: e6a7479d279578b4a99fffc77d7a5757
+  - enabled: 1
+    path: Assets/Scenes/Level 4-3.unity
+    guid: a7e5b1381cd805b4186518563353a708
+  - enabled: 1
+    path: Assets/Scenes/Level 4-Boss.unity
+    guid: 16e3b0c395abc634680f1230b3408226
+  - enabled: 1
+    path: Assets/Scenes/Level F-1.unity
+    guid: e86236e59fda93147bf895b51b2a5634
+  - enabled: 1
+    path: Assets/Scenes/Level F-2.unity
+    guid: 873a1ad160e008445a52ba11d74027ca
+  - enabled: 1
+    path: Assets/Scenes/Level F-3.unity
+    guid: 830011ca92ccd1a40af94faf75d9c7f2
+  - enabled: 1
+    path: Assets/Scenes/Level F-Boss.unity
+    guid: e117f573e99af6247a13e0f9fe017d41
+  - enabled: 1
+    path: Assets/Scenes/End Scene.unity
+    guid: 276c1e4d5d2fda540916163a20d21146
+  m_configObjects: {}
